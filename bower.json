@@ -1,0 +1,10 @@
+{
+    "name": "revolution-slider",
+    "version": "1.0.0",
+    "main": [
+        "js/revolution-slider.js",
+        "css/revolution-slider.css"
+    ],
+    "ignore": [
+    ]
+}
