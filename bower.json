@@ -3,7 +3,11 @@
     "version": "1.0.0",
     "main": [
         "js/revolution-slider.js",
-        "css/revolution-slider.css"
+        "css/revolution-slider.css",
+		"fonts/revicons.eot",
+		"fonts/revicons.svg",
+		"fonts/revicons.ttf",
+		"fonts/revicons.woff"
     ],
     "ignore": [
     ]
