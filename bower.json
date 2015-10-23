@@ -4,10 +4,10 @@
     "main": [
         "js/revolution-slider.js",
         "css/revolution-slider.css",
-		"fonts/revicons.eot",
-		"fonts/revicons.svg",
-		"fonts/revicons.ttf",
-		"fonts/revicons.woff"
+		"fonts/revicons/revicons.eot",
+		"fonts/revicons/revicons.svg",
+		"fonts/revicons/revicons.ttf",
+		"fonts/revicons/revicons.woff"
     ],
     "ignore": [
     ]
